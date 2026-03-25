@@ -2,7 +2,7 @@
 
 **MS Data Science @ UMass Dartmouth** (GPA: 3.6 · Graduating May 2026)  
 **B.Tech Mechanical Engineering** · Punjab Technical University  
-📍 Dartmouth, Massachusetts · 📧 abansal2@umassd.edu · 📞 (508) 965-2806
+📍 Dartmouth, Massachusetts · 📧 99anujbansal@gmail.com · 📞 (508) 965-2806
 
 ---
 
@@ -104,6 +104,6 @@ Mentored incoming international students on academics and campus transition
 
 I'm actively looking for full-time roles in Data Science, ML Engineering, or Data Analytics starting May 2026.
 
-📧 abansal2@umassd.edu  
+📧 abansal2@umassd.edu, 99anujbansal@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-bansal-854772189/)  
 💻 [GitHub](https://github.com/99anujb)
