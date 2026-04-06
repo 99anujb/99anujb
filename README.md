@@ -21,8 +21,8 @@ I'm actively seeking **Data Scientist, ML Engineer, or Data Analyst** roles star
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
 | 🔬 [AFM Height Map Reconstruction](https://github.com/99anujb/AFM-Height-Reconstruction-DL) | Deep learning pipeline reconstructing nanoscale surface height maps from AFM TIFF images using a Size-Conditioned Attention U-Net | PyTorch, ResNet18, U-Net, Python | ✅ Complete |
-| 📉 Customer Churn Prediction | End-to-end churn prediction with SHAP explainability — live Streamlit app | XGBoost, SHAP, Streamlit | 🔨 In Progress |
-| 🏥 Healthcare Risk Prediction | Patient disease risk scoring dashboard with what-if analysis | Scikit-learn, SHAP, Streamlit | 🔜 Coming Soon |
+| 📉 Customer Churn Prediction | End-to-end churn prediction with SHAP explainability — live Streamlit app | XGBoost, SHAP, Streamlit | ✅ Complete  |
+| 🏥 Healthcare Risk Prediction | Patient disease risk scoring dashboard with what-if analysis | Scikit-learn, SHAP, Streamlit | ✅ Complete  |
 | 🤖 AI Research Agent | Autonomous agent that reads job descriptions, searches domain papers, and surfaces relevant insights | LangChain, OpenAI, Streamlit | 🔜 Coming Soon |
 | 🔍 Fraud Detection Dashboard | Financial anomaly detection comparing classical vs neural approaches | Isolation Forest, Autoencoder, Plotly | 🔜 Coming Soon |
 
