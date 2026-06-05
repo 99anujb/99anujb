@@ -1,6 +1,6 @@
 # Hi, I'm Anuj Bansal 👋
 
-**MS Data Science @ UMass Dartmouth** (GPA: 3.6 · Graduating May 2026)
+**MS Data Science @ UMass Dartmouth** (GPA: 3.6 · Graduated May 2026)
 **B.Tech Mechanical Engineering** · Punjab Technical University
 📍 Dartmouth, Massachusetts · 📧 99anujbansal@gmail.com · 📞 (508) 965-2806
 🌐 **[portfolio-mu-inky-15.vercel.app](https://portfolio-mu-inky-15.vercel.app)**
@@ -9,7 +9,7 @@
 
 ## About Me
 
-Data practitioner with 4+ years of growth and analytics experience in EdTech, now finishing an MS in Data Science at UMass Dartmouth. Graduate research in deep learning for scientific imaging (3rd Place, ASEE NE 2026). My portfolio spans predictive modeling, customer analytics, deep learning research, interactive dashboards, and — most recently — production LLM agents (Claude-driven pipelines for content, resumes, and outreach automation).
+Data practitioner with 4+ years of growth and analytics experience in EdTech, freshly graduated with an MS in Data Science from UMass Dartmouth (May 2026). Graduate research in deep learning for scientific imaging (3rd Place, ASEE NE 2026). My portfolio spans predictive modeling, customer analytics, deep learning research, interactive dashboards, and — most recently — production LLM agents (Claude-driven pipelines for content, resumes, and outreach automation).
 
 **Highlights:**
 - 3rd Place, Graduate Poster — ASEE NE Section Conference 2026 (deep learning research on AFM surface reconstruction)
@@ -18,7 +18,7 @@ Data practitioner with 4+ years of growth and analytics experience in EdTech, no
 - Projected **$1.2M in incremental revenue** via KPI funnel analysis; identified **$2M in M&A synergies** through valuation work
 - Shipped 3 production Claude-powered agents (daily LinkedIn content pipeline, resume tailoring, cold-outreach automation) running on GitHub Actions cron with email approval gates
 
-I'm actively seeking **Data Scientist, Data Analyst, or Business Analyst** roles starting May 2026.
+**Available now** — actively seeking **Data Scientist, Data Analyst, or Business Analyst** roles. Open to onsite/hybrid across the US and remote.
 
 ---
 
@@ -100,7 +100,7 @@ Jupyter · Git · GitHub · GitHub Actions · VS Code · Flask · FastAPI · Str
 
 ## Education
 
-🎓 **MS Data Science** — University of Massachusetts Dartmouth (May 2026)
+🎓 **MS Data Science** — University of Massachusetts Dartmouth (Graduated May 2026)
 GPA: 3.6 · Coursework: Machine Learning, Deep Learning, Data Mining, Statistical Methods, Database Management, Data Visualization, Cloud Computing (AWS)
 
 🎓 **B.Tech Mechanical Engineering** — Punjab Technical University (June 2020)
@@ -120,7 +120,7 @@ Mentored incoming international students on academics and campus transition
 
 ## Let's Connect
 
-I'm actively looking for full-time roles in **Data Science, Data Analytics, or Business Analytics** starting May 2026.
+Fresh MS Data Science grad (May 2026) actively looking for full-time roles in **Data Science, Data Analytics, or Business Analytics**. Available to start immediately.
 
 📧 abansal2@umassd.edu · 99anujbansal@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-bansal-854772189/)
