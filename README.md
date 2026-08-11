@@ -111,4 +111,4 @@ Mentored incoming international students through academics and campus transition
 
 Open to **Data Analyst, Business Analyst and Data Scientist** roles across the US. Available immediately.
 
-📧 [99anujb@gmail.com](mailto:99anujb@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-bansal-854772189/) · 🌐 [Portfolio](https://portfolio-mu-inky-15.vercel.app)
+📧 [99anujbansal@gmail.com](mailto:99anujbansal@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/anuj-bansal-854772189/) · 🌐 [Portfolio](https://portfolio-mu-inky-15.vercel.app)
