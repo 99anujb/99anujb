@@ -1,7 +1,7 @@
 # Hi, I'm Anuj Bansal 👋
 
 **Data Analyst** · MS Data Science, UMass Dartmouth (GPA 3.6 · completed May 2026)
-📍 Dartmouth, Massachusetts · 📧 [99anujb@gmail.com](mailto:99anujbansal@gmail.com)
+📍 Dartmouth, Massachusetts · 📧 [99anujbansal@gmail.com](mailto:99anujbansal@gmail.com)
 🌐 **[Portfolio](https://portfolio-mu-inky-15.vercel.app)** · 🔗 **[LinkedIn](https://www.linkedin.com/in/anuj-bansal-854772189/)**
 
 ---
